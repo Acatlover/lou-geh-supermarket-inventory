@@ -6,8 +6,8 @@ Set up guide for Lou Geh Supermarket application
 
 For installation:
 1. Download and install xampp
-2. Download lgsupermarket.zip
-3. Extract it in  in xampp/htdocs/ folder
+2. Download the lgsupermarket files
+3. Put it in xampp/htdocs/ folder
 
 For Database import:
 1. Open xampp and turn on Apache and MySQL
